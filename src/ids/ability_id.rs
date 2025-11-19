@@ -1599,6 +1599,12 @@ pub enum AbilityId {
 	LoadOutSprayLoadOutSpray12 = 4124,
 	LoadOutSprayLoadOutSpray13 = 4125,
 	LoadOutSprayLoadOutSpray14 = 4126,
+	SalvageEffect1 = 4128
+	SalvageEffect2 = 4129,
+	SalvageSensorTowerRefund1 = 4130,
+	SalvageSensorTowerRefund2 = 4131,
+	WorkerStopIdleAbilityVespene1 = 4132,
+	WorkerStopIdleAbilityVespene2 = 4133,
 	MorphToCollapsibleRockTowerDebrisRampLeftGreenCancel = 4283,
 	MorphToCollapsibleRockTowerDebrisRampRightGreenCancel = 4286,
 	MorphToBanelingBaneling = 4431,
